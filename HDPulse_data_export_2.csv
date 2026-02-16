@@ -1,0 +1,55 @@
+﻿Income (Median household income) for Washington by County
+"All Races (includes Hispanic/Latino), Both Sexes, All Ages, 2019-2023"
+Sorted by Value
+
+County,FIPS,Value (Dollars),Rank within US (of 3141 counties)
+"United States",00000,"78,538","N/A"
+"Washington",53000,"94,952","8 of 52"
+"Whitman County",53075,"52,893","2,496"
+"Ferry County",53019,"54,650","2,373"
+"Wahkiakum County",53069,"57,091","2,178"
+"Okanogan County",53047,"60,293","1,884"
+"Pacific County",53049,"62,350","1,692"
+"Garfield County",53023,"62,411","1,688"
+"Grays Harbor County",53027,"63,539","1,580"
+"Pend Oreille County",53051,"63,750","1,561"
+"Adams County",53001,"65,042","1,422"
+"Stevens County",53065,"67,405","1,254"
+"Clallam County",53009,"67,999","1,198"
+"Yakima County",53077,"68,015","1,195"
+"Asotin County",53003,"69,107","1,112"
+"Lewis County",53041,"69,690","1,081"
+"Kittitas County",53037,"69,928","1,061"
+"Klickitat County",53039,"70,400","1,021"
+"Grant County",53025,"71,115","970"
+"Jefferson County",53031,"71,143","968"
+"Lincoln County",53043,"71,227","963"
+"Columbia County",53013,"71,528","931"
+"Walla Walla County",53071,"72,212","887"
+"Cowlitz County",53015,"72,932","818"
+"Spokane County",53063,"73,513","788"
+"Chelan County",53007,"78,306","568"
+"Mason County",53045,"78,359","565"
+"Douglas County",53017,"80,374","493"
+"Whatcom County",53073,"80,989","477"
+"Franklin County",53021,"82,755","424"
+"San Juan County",53055,"83,682","391"
+"Skagit County",53057,"85,474","348"
+"Benton County",53005,"87,316","305"
+"Island County",53029,"88,358","281"
+"Skamania County",53059,"90,085","251"
+"Thurston County",53067,"93,985","210"
+"Clark County",53011,"94,948","197"
+"Pierce County",53053,"96,632","174"
+"Kitsap County",53035,"98,546","160"
+"Snohomish County",53061,"107,982","95"
+"King County",53033,"122,148","39"
+
+Suggested Citation:
+HDPulse: An Ecosystem of Minority Health and Health Disparities Resources. National Institute on Minority Health and Health Disparities. Created 11/5/2025. Available from https://hdpulse.nimhd.nih.gov
+
+Notes:
+"NA: Data not available [http://hdpulse.nimhd.nih.gov/data/datanotavailable.html] for this combination of geography, cancer site, age, and race/ethnicity."
+Source: Demographic data provided by the Census Bureau (http://www.census.gov/) & the American Community Survey (http://www.census.gov/acs/www/).
+"For more information about Income (Median household income), see the dictionary at http://hdpulse.nimhd.nih.gov/dictionary.php#income."
+"Median Incomes over 250,000 have been coded to 250,001 by the Census Bureau. [ http://www2.census.gov/acs2012_5yr/summaryfile/ACS_2008-2012_SF_Tech_Doc.pdf ]"
