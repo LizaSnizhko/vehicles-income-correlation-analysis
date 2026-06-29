@@ -1,17 +1,3 @@
----
-title: "Electric Vehicles and Income Patterns in Washington State"
-subtitle: "Data Visualization & Analysis with R"
-author: "Liza Snizhko"
-date: "December 24, 2025"
-format: 
-  html:
-    theme: cosmo
-    toc: true
-    embed-resources: true
-execute:
-  echo: true
----
-
 ```{r}
 #| output: false
 library(tidyverse)
